@@ -29,6 +29,7 @@
 <code><img height="25" src="https://avatars0.githubusercontent.com/u/46278880"></code>
 <code><img height="25" src="https://avatars3.githubusercontent.com/in/15368?s=60&v=4"></code>
 <code><img height="25" src="https://www.gnu.org/software/emacs/images/emacs.png"></code>
+<code><img height="25" src="https://magit.vc/assets/magit-400x400px.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
