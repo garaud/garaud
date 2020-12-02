@@ -3,21 +3,22 @@
 - 💻 I'm a computer Data Scientist
 - 🚀 I love learning, programming, hacking, writing, ...
 - 🎶 Music-mad
-- 🌆 I live near Bordeaux
+- 🌱 I live near Bordeaux
 
 
 *So what...*
 
-### Connect with me:
+### Where am I on...
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />][last.fm]
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
@@ -35,12 +36,13 @@
 
 <br />
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=garaud&show_icons=true&theme=hartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=garaud&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 [twitter]: https://twitter.com/jazzydag
 [linkedin]: https://www.linkedin.com/in/dgaraud
+[last.fm]: https://www.last.fm/user/be-jazzy
 [medium]: https://medium.com/@jazzydag
 
 <!--
