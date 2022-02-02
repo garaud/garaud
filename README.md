@@ -24,6 +24,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="25" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="25" src="https://pytorch.org/assets/images/logo-icon.svg"></code>
+<code><img height="25" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="25" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg"></code>
 <code><img height="25" src="https://clojure.org/images/clojure-logo-120b.png"></code>
