@@ -22,10 +22,13 @@
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="25" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
+<code><img height="25" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="25" src="https://pytorch.org/assets/images/logo-icon.svg"></code>
 <code><img height="25" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/microsoft/LightGBM/d517ba12f2e7862ac533908304dddbd770655d2b/docs/logo/LightGBM_logo_no_text.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="25" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg"></code>
 <code><img height="25" src="https://clojure.org/images/clojure-logo-120b.png"></code>
