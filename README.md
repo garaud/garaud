@@ -43,7 +43,7 @@ Website at: https://damiengaraud.org/
 
 <br />
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=garaud&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=garaud)](https://github.com/stats-organization/github-stats-extended)
 
 
 [bluesky]: https://bsky.app/profile/jazzydag.bsky.social
