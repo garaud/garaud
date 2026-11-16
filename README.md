@@ -8,12 +8,14 @@
 
 *So what...*
 
+Website at: https://damiengaraud.org/
+
 ### Where am I on...
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />][last.fm]
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Bluesky" width="22px" src="https://simpleicons.org/icons/bluesky.svg"/>][bluesky]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Last.fm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/last-dot-fm.svg" />][last.fm]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
 
 
 <br />
@@ -44,8 +46,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=garaud&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[twitter]: https://twitter.com/jazzydag
+[bluesky]: https://bsky.app/profile/jazzydag.bsky.social
 [linkedin]: https://www.linkedin.com/in/dgaraud
 [last.fm]: https://www.last.fm/user/be-jazzy
 [medium]: https://medium.com/@jazzydag
